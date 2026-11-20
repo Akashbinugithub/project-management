@@ -1,0 +1,4 @@
+I am writing functional and non functonial SRS document 
+a. login
+b. placement portal
+c. View attendance
