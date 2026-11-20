@@ -1,4 +1,11 @@
-I am writing functional and non functonial SRS document 
+I am writing functional and non functional SRS document 
 a. login
 b. placement portal
 c. View attendance
+
+
+
+Non functional requirements
+a. Security check
+b. Usability
+c. Scalability
