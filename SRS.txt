@@ -4,5 +4,8 @@ b. placement portal
 c. View attendance
 
 
-
+functional and non functional requirements
+a. security
+b. scalability
+c. usability
 
